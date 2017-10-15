@@ -12,6 +12,8 @@ after generating practice folders practice script deletes itself.
 
 ## Author
 
+* [**Gangadhar Korrapati**](https://github.com/gangadharKorrapati/)
+
 ## License
 
 This project is licensed under the MIT License
