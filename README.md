@@ -10,14 +10,17 @@ run gen.bat.
 
 enter your name when prompted.
 
-after generating practice folders practice script deletes itself because accidental run will overwrite work you have done so far. 
+after generating practice folders, practice script deletes itself because accidental run will overwrite your practice. 
 
 ## Want edit algorithm questions for practice?
 add or delete algorithms present in gen.txt.
 
 one algorithm per line.
 
-use CamelCase for writing because name is used for generating java class files.
+use CamelCase for writing because algorithm name is used for generating java class files.
+
+## Want to use another licence for your practice?
+edit mit.txt with your licence
 
 ## Author
 * [**Gangadhar Korrapati**](https://github.com/gangadharKorrapati/)
