@@ -134,5 +134,6 @@ del "cpp.txt"
 del "jsh.txt"
 del "js.txt"
 del "jsf.txt"
+del "README.md"
 del %0
 pause
