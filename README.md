@@ -10,7 +10,7 @@ run gen.bat.
 
 enter your name when prompted.
 
-after generating practice folders practice script deletes itself.
+after generating practice folders practice script deletes itself because accidental run will overwrite work you have done so far. 
 
 ## Want edit algorithm questions for practice?
 add or delete algorithms present in gen.txt.
